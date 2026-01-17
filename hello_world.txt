@@ -1,1 +1,2 @@
 This is my first code on GIT
+I've made a few changes
